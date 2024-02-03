@@ -317,6 +317,9 @@ nav .fa-solid{
     display: none;
 }
 @media only screen and (max-width:600px){
+    .services-list div i{
+        margin-left: 20%;
+    }
     .header-text{
         margin-top: 100%;
         font-size: 16px;
